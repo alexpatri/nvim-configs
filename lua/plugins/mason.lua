@@ -21,6 +21,7 @@ return {
             ensure_installed = {
                 "clangd",
                 "gopls",
+                "lua_ls",
             },
             automatic_installation = true,
         })
