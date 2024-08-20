@@ -32,7 +32,3 @@ require("lazy").setup({
   checker = { enabled = true },
 })
 
--- Transparent background
--- vim.cmd [[
---     highlight Normal guibg=NONE ctermbg=NONE
--- ]]
