@@ -22,6 +22,7 @@ return {
 				"clangd",
 				"gopls",
 				"lua_ls",
+                "cssls"
 			},
 			automatic_installation = true,
 		})
